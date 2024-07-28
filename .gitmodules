@@ -1,0 +1,3 @@
+[submodule "mojo-examples"]
+	path = mojo-examples
+	url = git@github.com:modularml/mojo.git
